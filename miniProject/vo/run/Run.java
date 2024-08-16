@@ -8,4 +8,9 @@ public class Run {
 		UserMenu cm = new UserMenu();
 		cm.mainMenu();
 	}
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}SDadsadsad
+	
 }
